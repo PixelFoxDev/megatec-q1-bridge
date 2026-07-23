@@ -174,3 +174,11 @@ which model would be genuinely useful.
 ## Licence
 
 MIT.
+
+## Attribution
+
+I'm not a Python programmer. The protocol behaviour documented here I
+established by trial and observation on my own hardware, and the design,
+testing and tuning are mine; the code itself was written with AI assistance.
+Worth saying plainly — and it means that if you file an issue, my answers may
+be slower than you'd expect from someone who wrote every line.
